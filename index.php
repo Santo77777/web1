@@ -17,6 +17,7 @@ echo $edad;
 echo("Hola mundo <br>");
 echo("Mi nombre es: ".$nombre ." y " .$edad );
 
+$costo =5;
 
 
 
